@@ -1,4 +1,4 @@
-# initialisation des variables
+# initialisation variables
 popuVille = int(input())
 nbMalades = 1
 nbJours = 1
