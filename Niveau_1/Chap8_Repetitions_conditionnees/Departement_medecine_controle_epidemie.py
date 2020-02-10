@@ -6,5 +6,5 @@ nbJours = 1
 while nbMalades < popuVille:
    nbMalades = nbMalades + (2 * nbMalades)
    nbJours = nbJours +1
-# affichage resultat
+# affichage resultat test2
 print(nbJours)
