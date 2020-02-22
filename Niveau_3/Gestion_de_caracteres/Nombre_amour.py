@@ -19,7 +19,7 @@ def calcul_nb_amour(prenom):
    while nbAmour >= 10:
       reduc_nb_amour()
    return str(nbAmour)
-   
+
 
 nb1 = calcul_nb_amour(prenomEnf1)
 nb2 = calcul_nb_amour(prenomEnf2)
